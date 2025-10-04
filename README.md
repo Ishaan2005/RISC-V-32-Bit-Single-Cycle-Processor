@@ -25,7 +25,7 @@ It is designed for educational purposes, demonstrating how the fundamental block
 
 ## Datapath Diagram
 
-![RISC-V Single Cycle Datapath](datapath.png)
+![RISC-V Single Cycle Datapath](datapth.png)
 
 The above diagram illustrates how the different modules of the processor are connected and how data flows between them during execution.
 
